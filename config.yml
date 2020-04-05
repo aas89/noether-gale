@@ -1,30 +1,6 @@
-# Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://aas89.github.io
-baseurl:             ''
-paginate:            5
-permalink:           pretty
-theme:               lanyon
-
-# About/contact
-author:
-  name:              Noether-gale
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Gems
-plugins:
-  - jekyll-paginate
-
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
-
-
-#baseURL = "http://aas89.github.io"
-#languageCode = "en-us"
-#title = "My New Hugo Site"
-#theme = "lanyon"
+baseURL = "http://aas89.github.io/noether-gale/"
+languageCode = "en-us"
+title = "noether-gale"
+theme = "lanyon"
+publishDir = "docs"
 
